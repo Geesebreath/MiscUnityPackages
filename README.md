@@ -1,2 +1,2 @@
 # MiscUnityPackages
-Miscellaneous Unity packages for use in whatever.
+Miscellaneous Unity packages for general use in projects. Starting points for fleshing out.
